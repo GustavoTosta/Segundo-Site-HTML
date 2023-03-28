@@ -1,0 +1,35 @@
+*
+{
+    font-family: Georgia;
+}
+
+.pagina01
+{
+    background-color: antiquewhite;
+}
+
+.pagina02
+{
+    background-image: url(img/background.png);
+    color: black;
+}
+
+.fundoTexto
+{
+    box-shadow: inset 0px 0px 0px 50px white;
+}
+
+.pagina03
+{
+    background-color: darksalmon;
+}
+
+.texto
+{
+    text-align: justify;
+}
+
+.center
+{
+    text-align: center;
+}
